@@ -1,0 +1,4 @@
+# ninja log v5
+0	15272	1712435712524406934	/home/yuxuan/code_experiments/pytorch_geometric/c_extension/lltm-extension/build/temp.linux-x86_64-cpython-311/lltm.o	d764cbc8bf0d10d3
+0	14768	1712436517102321265	/home/yuxuan/code_experiments/pytorch_geometric/c_extension/pytorch/lltm-extension/build/temp.linux-x86_64-cpython-311/lltm.o	53a9f8926f952f48
+6	14775	1712437258902275248	/home/yuxuan/code_experiments/pytorch_geometric/c_extension/pytorch/lltm-extension/build/temp.linux-x86_64-cpython-311/lltm.o	53a9f8926f952f48
